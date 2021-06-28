@@ -107,7 +107,7 @@ _Some wallets that support **lnurl**_.
 | [Phoenix](https://phoenix.acinq.co/)                              | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Shockwallet](https://shockwallet.app/)                           | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [ThunderHub](https://github.com/apotdevin/thunderhub)             |           | ☑️        | ☑️ 💬  | ☑️     |         |
-| [Wallet of Satoshi](https://www.walletofsatoshi.com/)             | ☑️         | ☑️        | ☑️     |       |         |
+| [Wallet of Satoshi](https://www.walletofsatoshi.com/)             | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zap-Android](https://www.zaphq.io/)                              | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zap-iOS](https://www.zaphq.io/)                                  |           | ☑️        | ☑️     |       | ☑️       |
 | [ZEBEDEE](https://zbd.gg) (and [bots](https://zebedee.io/bots/))  | ☑️         | ☑️        | ☑️ 💬  |       |         |
